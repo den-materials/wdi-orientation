@@ -183,7 +183,7 @@ Firstly, feedback on lessons and assignments is always appreciated.  If you see 
 
 #### Request for help from Instructors
 
-1. Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with a detailed description of the problem.  Before submitting this issue, make sure you have tried to "Google your way out", and ask a neighbor if there is one nearby.
+Secondly, any request for help from instructors should follow the **Read, Search, Ask** policy mentioned above. Specifically, to request help we are expecting a GitHub issue on the relevant repository with a detailed description of the problem.  Before submitting this issue, make sure you have tried to "Google your way out", and ask a neighbor if there is one nearby.
 
 Putting content questions in the Slack channel has several benefits:
 - Other Developers might have the same question(s) and we can help everyone at the same time
