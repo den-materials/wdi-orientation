@@ -5,6 +5,7 @@
 ## Why is this important?
 Make sure everyone has a similar development environment and similar expectations around how the course will run.
 
+<!--WDI6 10:31 -->
 <!--WDI5 9:47 -->
 
 ## What are the objectives
@@ -43,6 +44,7 @@ Parking is not easy around General Assembly and Industry, but is definitely poss
 - If you are bringing guests to the space, please notify the front desk.
 - The front doors at Industry are only open during business hours. Side doors require a key fob for entry, as well as the front doors outside of business hours.  Make sure you **keep your keys with you at all times**.
 
+<!--WDI6 10:37  -->
 <!--Actually 10:05-->
 <!--10:09 WDI4 -->
 <!--WDI5 9:55 -->
@@ -61,6 +63,8 @@ Parking is not easy around General Assembly and Industry, but is definitely poss
 \* Homework must be *submitted* by 9:00am the class day after assignment
 
 \* We expect homeworks to be *completed* by 9:00am the class day after that
+
+<!--WDI5 10:49 -->
 
 ### Checks for Understanding (CFUs)
 
@@ -112,6 +116,7 @@ Every unit, we will establish 'squads' - these small teams will contain 3-4 deve
 
 Each unit, squads will be reshuffled to allow developers to experience different perspectives and personalities in much the same way they will experience these in a development job.
 
+<!--WDI6 10:55  -->
 <!--WDI5 10:08 -->
 <!--Actually 10:14-->
 <!--10:20 WDI4 -->
@@ -154,6 +159,7 @@ links for the specific lesson plans by the beginning of the day.
 
 <!--Actually 10:19 -->
 <!--WDI5 10:15-->
+<!--WDI6 10:59 -->
 <!--10:15 10 minutes -->
 
 ## Communication
@@ -202,6 +208,7 @@ Instructors can take direct messages for non-content related issues. Direct mess
 
 "No one is born knowing how to code." - Various
 
+<!--WDI6 11:07 -->
 <!--Acutally 10:30 -->
 <!-- 10:25 5 minutes -->
 
@@ -241,6 +248,7 @@ Also, if the computer does what you want it to do, you've succeeded. This can be
 <!--10:53 WDI4 -->
 <!--10:35 10 miutes -->
 
+<!--WDI6 11:13 -->
 <!--WDI5 10:41 after stretch break -->
 
 ## Work and Feedback
@@ -266,6 +274,7 @@ progress and help work through any issues.
 
 "You are not your code." - Multiple Quora Users
 
+<!--WDI6 11:16  -->
 <!--10:49 WDI5 -->
 <!--Actually 10:47-->
 <!--11:02 WDI4 -->
@@ -282,6 +291,7 @@ progress and help work through any issues.
 <!--These goals might be a good way to decide who goes on which "squad" for Unit 1 -->
 
 
+<!--WDI6 skipped goal submission 11:17 -->
 <!--WDI5 10:58 -->
 <!--11:13 WDI4 -->
 <!--Actually 10:58 goals take a while, maybe do "Final Thoughts" before "Goals" next time-->
@@ -322,6 +332,7 @@ If any Developers need help with the installFest materials they received last we
 
 ** [Setup your PHP/Postgres Environment](https://github.com/den-materials/installFest/blob/master/php-and-postgres.md)
 
+<!--WDI6 11:30 -->
 <!--WDI5 11:12 -->
 
 ## Licensing
