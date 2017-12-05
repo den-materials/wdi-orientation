@@ -24,7 +24,7 @@ Make sure everyone has a similar development environment and similar expectation
 
 ### WiFi
 
-Please use the Industry-DESK network. The password is on the whiteboard.
+Please use the INDUSTRY-CORP network. Username: "ga-guest". PW: "yellowpencil"
 
 ### Parking
 
