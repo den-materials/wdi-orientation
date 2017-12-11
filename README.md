@@ -36,7 +36,8 @@ Parking is not easy around General Assembly and Industry, but is definitely poss
 
 - There are a lot of businesses here at Industry. Please be mindful of your neighbors, their space, and their things.
 - The water, coffee, and tea are free. Drink as much as you want, but if the container is empty, it is everyone's responsibility to help brew the next batch.
-- There is also beer available on tap here, but remember to **drink responsibly**, and **do not bring any alcohol into the classroom**.
+- Please **do not use the beer on taps** at Industry.  The use of those taps is only for full-time employees of coworking spaces in Industry.
+- Also, if you are bringing alcohol into Industry, or if you are at an event that serves alcohol, remember to **drink responsibly** (and only if you are of-age), and **do not bring any alcohol into the classroom**.
 - When you are done with your dishes, put them in the dishwasher if possible, and put them in the sink if it's not possible.
 - If you want to use an open conference room, please ask an instructor if the space is available.  However, "break out rooms" at Industry are completely free and first-come, first-served.  Look for rooms that end in ".5", and you can meet in there anytime you want.
 - The ping-pong tables and other communal spaces are also available. Again, just be mindful of your neighbors and share.
